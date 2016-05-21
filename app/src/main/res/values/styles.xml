@@ -1,0 +1,9 @@
+<resources>
+    <style name="LightTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Tema Light -->
+        <item name="colorPrimary">@color/Primario</item>
+        <item name="colorPrimaryDark">@color/PrimarioOscuro</item>
+        <item name="colorAccent">@color/Accent</item>
+
+    </style>
+</resources>
